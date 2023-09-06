@@ -26,6 +26,7 @@ node_modules
 *.log
 .vscode
 .tool-versions
+/.history
 
 # debug
 npm-debug.log*
